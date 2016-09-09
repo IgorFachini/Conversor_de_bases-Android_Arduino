@@ -1,5 +1,5 @@
 # Conversor_de_bases-Android_Arduino
-Aplicação que converte decimal para binário, octal, hexadecimal. E enviando o binário para o Arduíno.
+Aplicação que converte decimal para binário, octal, hexadecimal. E enviando o binário para o Arduíno por bluetooth.
 
 A aplicação foi feita usando o android Studio que pode ser baixado no site <a href="https://developer.android.com/studio/index.html?hl=pt-br">Android Studio</a>.
 
